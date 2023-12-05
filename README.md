@@ -7,7 +7,8 @@ Middleware operate on the level of ASP.NET Core and can act on every single requ
 when to use middleware ?<br/>
 if you don't require the context of MVC (let's say you're concerned about flow and execution, like responding to headers some pre-routing mechanism, etc.) then use middlewares.
 But if you require the context of MVC and you want to operate against actions then use filters.<br/>
-  
+
+References<br/>https://stackoverflow.com/questions/42582758/asp-net-core-middleware-vs-filters <br/>
 what is difference between app.run vs app.use<br/>
 security of application<br/>
 what method and tools used for security like jwt?<br/>
