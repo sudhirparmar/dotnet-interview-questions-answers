@@ -8,3 +8,13 @@ oops concept
 what is Dependency injection ? type of lifespan
 what is garbage collecter ? when it execute
 filters in dotnet core 
+
+
+angular 
+how to pass data from parent to child or child to parent?
+event emitter 
+difference between subject behaviour vs subject
+intercepted
+observable
+how to consume webapi in angular
+route guard
