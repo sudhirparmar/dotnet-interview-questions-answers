@@ -18,3 +18,11 @@ intercepted
 observable
 how to consume webapi in angular
 route guard
+
+#sql
+transaction
+stored procedure vs function
+join types and detail
+cluster index vs non cluster index
+scope of CTE
+foreign key 
