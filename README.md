@@ -1,6 +1,13 @@
 # dotnet-interview-questions-answers
 #difference between dotnet framework vs dotnet core<br/>
-what is middleware ?  how request handle in middleware ? how to register?<br/>
+what is middleware ?  how request handle in middleware ? how to register? when to use<br/>
+Middleware operate on the level of ASP.NET Core and can act on every single request that comes in to the application.
+
+
+when to use middleware ?<br/>
+if you don't require the context of MVC (let's say you're concerned about flow and execution, like responding to headers some pre-routing mechanism, etc.) then use middlewares.
+But if you require the context of MVC and you want to operate against actions then use filters.<br/>
+  
 what is difference between app.run vs app.use<br/>
 security of application<br/>
 what method and tools used for security like jwt?<br/>
