@@ -1,23 +1,23 @@
 # dotnet-interview-questions-answers
-#difference between dotnet framework vs dotnet core
-what is middleware ?  how request handle in middleware ? how to register?
-what is difference between app.run vs app.use
-security of application
-what method and tools used for security like jwt?
-oops concept
-what is Dependency injection ? type of lifespan
-what is garbage collecter ? when it execute
-filters in dotnet core 
+#difference between dotnet framework vs dotnet core<br/>
+what is middleware ?  how request handle in middleware ? how to register?<br/>
+what is difference between app.run vs app.use<br/>
+security of application<br/>
+what method and tools used for security like jwt?<br/>
+oops concept<br/>
+what is Dependency injection ? type of lifespan<br/>
+what is garbage collecter ? when it execute<br/>
+filters in dotnet core <br/>
 
-
+<br/>
 angular 
-how to pass data from parent to child or child to parent?
-event emitter 
-difference between subject behaviour vs subject
-intercepted
-observable
-how to consume webapi in angular
-route guard
+how to pass data from parent to child or child to parent? <br/>
+event emitter <br/>
+difference between subject behaviour vs subject<br/>
+intercepted<br/>
+observable<br/>
+how to consume webapi in angular<br/>
+route guard<br/>
 
 #sql
 transaction
