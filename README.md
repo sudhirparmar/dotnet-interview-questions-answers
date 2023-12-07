@@ -16,6 +16,14 @@ oops concept<br/>
 what is Dependency injection ? type of lifespan<br/>
 what is garbage collecter ? when it execute<br/>
 filters in dotnet core <br/>
+solid principle
+
+c#
+access modifier<br/>
+abstract class<br/>
+sealed class<br/>
+inheritance type<br/>
+interface<br/>
 
 <br/>
 angular 
@@ -27,10 +35,12 @@ observable<br/>
 how to consume webapi in angular<br/>
 route guard<br/>
 
+subject and behaviour subject <br/>
+
 #sql
 transaction
 stored procedure vs function
 join types and detail
 cluster index vs non cluster index
 scope of CTE
-foreign key 
+foreign key primary key
